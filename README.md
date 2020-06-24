@@ -1,5 +1,4 @@
-# examen-ja2-juni-2020-met-spring-boot-RonaldCoppieters
-examen-ja2-juni-2020-met-spring-boot-RonaldCoppieters created by GitHub Classroom
+# VisitorAppDemo
 
 ## Project setup
 ### With MySQL
