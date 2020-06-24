@@ -1,7 +1,6 @@
 # VisitorAppDemo
 
-## Project setup
-### With MySQL
+### Project setup with MySQL
 Add the following lines to application.properties
 ```
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
